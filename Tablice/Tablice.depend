@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1481912946 source:c:\users\danie\documents\workspacecodeblocks\tablice\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1481913004 source:c:\users\danie\documents\workspacecodeblocks\spoj\tablice\main.c
+	<stdio.h>
+	<stdlib.h>
+

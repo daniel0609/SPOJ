@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1481909554 source:c:\users\danie\documents\workspacecodeblocks\nwd\main.c
+	<stdio.h>
+	<stdlib.h>
+
